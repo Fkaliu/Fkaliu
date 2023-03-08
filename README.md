@@ -1,7 +1,7 @@
   Oi, eu sou o Filipe Kaliu
   Estudo Analise e Desenvolvimento de Sistemas
 
-- 🌱 Atualmente estou aprendendo HMTL e JavaScript
+- 🌱 Atualmente estou aprendendo Python
 
 
 <div align="center">
