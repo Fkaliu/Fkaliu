@@ -1,7 +1,6 @@
   Oi, eu sou o Filipe Kaliu
   Estudo Analise e Desenvolvimento de Sistemas
 
-- 👀 Estou interessado em me tornar um desenvolvedor Mobile
 - 🌱 Atualmente estou aprendendo HMTL e JavaScript
 
 
