@@ -1,4 +1,4 @@
-  Oi, eu sou o Filipe Kaliu
+  Oi, eu sou o Filipe Kaliu<br>
   Estudo Analise e Desenvolvimento de Sistemas
 
 - 🌱 Atualmente estou aprendendo Python
